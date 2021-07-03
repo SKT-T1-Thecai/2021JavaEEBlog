@@ -1,0 +1,10 @@
+6.x 关注CSP考试发布  https://csp.ccf.org.cn/csp/index.action
+6.15 javaEE考试
+6.19 软工考试
+6.20 javaEE大作业
+6.26 devops实验
+12.23 考研
+java -jar xxx.jar >/dev/null 2>&1 &
+
+
+
